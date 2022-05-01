@@ -1,10 +1,8 @@
 <div style="padding-top: 40px; text-align: center">
-  <h1>Hi there 👋</h1>
+  <h2>Hi there 👋</h2>
   <b>世路如今已惯</b><br />
   <b>此心到处悠然</b>
-</div>
-
-<style>
+  <style>
 b {
     background-image: -webkit-linear-gradient(left,
    #22c1c3, #fdbb2d 25%, #22c1c3 50%, #fdbb2d 75%, #22c1c3);
@@ -19,3 +17,4 @@ b {
     100% { background-position: -100% 0;}
   }
 </style>
+</div>
